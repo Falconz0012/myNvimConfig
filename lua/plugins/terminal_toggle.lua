@@ -7,7 +7,7 @@ return {
 		opts = {
       --[[ things you want to change go here]]
       direction = "float",
-      open_mapping = [[<c-/>]]
+      open_mapping = [[<c-.>]]
 		},
 	},
 	config = true
