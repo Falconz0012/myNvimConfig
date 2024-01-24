@@ -5,7 +5,8 @@
 
 
 <h2>Knowing your tools will also make you inherintly more productive</h2>
+
+<p1>This project will be a WIP forever probably, more often than not my necessities change over time and my config will follow me along, learning Vim (Nvim) is just fun and understanding plug-ins while being able to integrate them into my dev environment is a process i will surely keep going at. </p1>
 <h3><b><i>"If you know the enemy and know yourself you need not fear the result of a hundred battles "</i></b> - Sun Tzu </h3>
 
 
-<p1>This project will be a WIP forever probably, more often than not my necessities change over time and my config will follow me along, learning Vim (Nvim) is just fun and understanding plug-ins while being able to integrate them into my dev environment is a process i will surely keep going at. </p1>
